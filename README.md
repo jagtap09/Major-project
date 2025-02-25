@@ -1,4 +1,4 @@
-# IoT-Driven Security: Hybrid Deep Learning-Based Detection Algorithm
+# IoT-Driven Security: Hybrid Deep Learning-Based Detection In IoT Device
 
 ## Project Overview
 This project focuses on enhancing security in IoT-driven environments by addressing challenges such as bottlenecks, Denial of Service (DoS), and Distributed Denial of Service (DDoS) attacks. Using a hybrid deep learning-based detection algorithm, the project analyzes datasets from nine different IoT devices, including smart doorbells, thermostats, baby monitors, webcams, and security cameras, to detect and predict attack behaviors, ensuring future security.
